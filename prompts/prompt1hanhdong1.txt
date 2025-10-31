@@ -1,0 +1,20 @@
+"Prompt 1
+🪄 #Hoàn cảnh:
+Tôi là Lâm, sinh viên năm đầu ngành Công nghệ thông tin (CNTT).
+Hiện nay tôi đang vừa đi làm, vừa đi học, theo chương trình đào tạo cử nhân trực tuyến.
+Tôi có mục tiêu dài hạn là trở thành kỹ sư phần mềm chuyên về phát triển ứng dụng web.
+Tôi chỉ có thể học vào buổi tối sau giờ làm việc.
+Bạn hãy viết cho tôi Bảng kế hoạch hành động năm nhất theo hướng học tập hiệu quả và rèn luyện thói quen học tập ổn định.
+🧾 #Hướng dẫn:
+Cấu trúc của Bản kế hoạch hành động:
+1.	Tổng quan về bản thân: Tôi là ai và mục tiêu học tập của tôi là gì?
+2.	Mục tiêu học tập: Những gì tôi muốn đạt được trong năm học đầu tiên?
+3.	Động lực: Tại sao tôi chọn mục tiêu này?
+4.	Hành động:
+o	Hành động 1: Nhóm hoạt động đầu tiên (ví dụ: học nhóm, quản lý thời gian).
+o	Hành động 2: Nhóm hoạt động thứ hai (ví dụ: tự học với AI).
+o	Hành động 3: Nhóm hoạt động thứ ba (ví dụ: phát triển kỹ năng mềm).
+👉 Ngôn ngữ ngắn gọn, dễ hiểu, định dạng dạng bảng rõ ràng.
+🎯 #Nhiệm vụ:
+Bạn hãy viết cho tôi Bảng kế hoạch hành động cá nhân theo cấu trúc trên, chú trọng phần Hành động 1 – Rèn luyện thói quen học tập hiệu quả.
+"
