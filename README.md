@@ -7,7 +7,7 @@
 - **Liên hệ:** phungvanlam@example.com  
 - **Năm học:** 2025 – 2026  
 - **Công cụ hỗ trợ:** ChatGPT & Gemini (AI Chatbot)  
-- **Nơi lưu trữ:** https://github.com/phunglam2504-tmu/PhungVanLam_Project_ActionPlan
+- **Nơi lưu trữ:**   https://github.com/phunglam2504-tmu/PhungVanLam_Project_ActionPlan
 
 ---
 
