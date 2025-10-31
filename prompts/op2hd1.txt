@@ -1,0 +1,7 @@
+"Hành động 1 (bổ sung chi tiết): Rèn luyện thói quen học tập hiệu quả
+•	Buổi tối: Dành từ 19h30 – 22h cho việc học, chia thành 3 phiên Pomodoro.
+•	Cuối tuần: Ôn tập toàn bộ nội dung trong tuần bằng ChatGPT (“Tóm tắt lại kiến thức môn X tuần này giúp tôi”).
+•	Thứ Sáu hàng tuần: Ghi nhanh nhật ký học tập vào worklog.md.
+•	Cuối tháng: Đọc lại toàn bộ kế hoạch → điều chỉnh nếu khối lượng học bị quá tải.
+•	Mẹo duy trì động lực: Đặt “phần thưởng nhỏ” (xem phim, nghe nhạc, cafe cùng bạn bè) khi hoàn thành mục tiêu học mỗi tuần.
+"
