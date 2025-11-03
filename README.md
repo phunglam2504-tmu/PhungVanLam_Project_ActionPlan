@@ -67,15 +67,6 @@ ActionPlan_NguyenDucAnh/
 
 ---
 
-## ✅ Cách sử dụng Repository
-
-1. Mở file `docs/action-plan.docx` để xem toàn bộ bài nộp.  
-2. Mở thư mục `prompts/` để xem toàn bộ prompt & output từ AI Chatbot.  
-3. Xem tiến độ ở `worklog/worklog.md`.  
-4. Ảnh minh chứng được lưu trong `screenshots/`.
-
----
-
 ## 📎 Link Repo GitHub
 
 👉 **(Điền link repo sau khi Public — ví dụ):**  
