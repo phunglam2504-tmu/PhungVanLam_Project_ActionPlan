@@ -1,27 +1,32 @@
-# BÁO CÁO DỰ ÁN: KẾ HOẠCH HÀNH ĐỘNG CÁ NHÂN
-Đây là bài tập cá nhân cho học phần **[Tên học phần, ví dụ: FIT2004 - Phát triển kỹ năng cá nhân]**.
+# 📘 BÁO CÁO DỰ ÁN: BẢN KẾ HOẠCH HÀNH ĐỘNG VỚI AI & NGUYÊN LÝ KIM TỰ THÁP
 
-Dự án này bao gồm một Bản Kế Hoạch Hành Động cá nhân cho năm học đầu tiên, được xây dựng với sự hỗ trợ của AI Chatbot và quản lý phiên bản trên repository này.
+Dự án cá nhân thuộc học phần **FIT2004 – Phát triển kỹ năng cá nhân**.  
+Sinh viên xây dựng Bản Kế Hoạch Hành Động năm nhất theo **Nguyên lý Kim Tự Tháp (Pyramid Principle)**, có sử dụng **AI Chatbot (ChatGPT/Gemini)** và quản lý phiên bản bằng **GitHub**.
 
 ---
 
 ## 👤 Thông tin Sinh viên
 
-* **Họ và tên:** [Điền Họ và Tên của bạn]
-* **Mã sinh viên:** [Điền Mã sinh viên]
-* **Lớp quản lý:** [Điền tên lớp]
-* **Email liên hệ:** [Điền email của bạn]
+| Thông tin | Nội dung |
+|-----------|----------|
+| **Họ và tên** | Nguyễn Đức Anh |
+| **Mã sinh viên** | 0124077010001 |
+| **Lớp quản lý** | D0124HNQTA1 |
+| **Học phần** | FIT2004 – Phát triển kỹ năng cá nhân |
+| **Email liên hệ** | ...@gmail.com |
 
 ---
 
 ## 📁 Cấu trúc Thư mục Repository
 
-Repository này được tổ chức theo cấu trúc chuẩn để dễ dàng quản lý và chấm bài:
+Cấu trúc thư mục được tổ chức rõ ràng để giảng viên dễ theo dõi & chấm điểm:
+
 ```
-ActionPlan_HoTenSV/
-├── README.md # Giới thiệu repo, cách sử dụng
-├── docs/ # Thư mục lưu tài liệu chính thức
-│ ├── action-plan.docx # File Word nộp bài (4 phần đầy đủ)
+ActionPlan_NguyenDucAnh/
+├── README.md # Giới thiệu dự án & hướng dẫn đọc
+├── docs/ # Tài liệu chính thức
+│ ├── action-plan.docx # File Word nộp LMS (4 phần đầy đủ)
+│ └── plan-outline.md # Dàn ý kế hoạch (Pyramid Principle)
 ├── prompts/ # Prompt và Output từ AI
 │ ├── prompt1.txt
 │ ├── output1.txt
@@ -29,46 +34,57 @@ ActionPlan_HoTenSV/
 │ ├── output2.txt
 │ ├── prompt3.txt
 │ └── output3.txt
-├── worklog/ # Nhật ký làm việc theo ngày/tuần
+├── worklog/ # Nhật ký làm việc
 │ └── worklog.md
-├── screenshots/ # Ảnh minh chứng (tuỳ chọn nhưng khuyến khích)
-│ ├── chatgpt_prompt1.png
-│ ├── chatgpt_prompt2.png
-│ ├── github_commit.png
-│ └── folder_structure.png
+└── screenshots/ # Ảnh minh chứng ChatGPT, commit, cấu trúc
+├── chatgpt_prompt1.png
+├── chatgpt_prompt2.png
+├── github_commit.png
+└── folder_structure.png
 ```
-
-## 🚀 Tài liệu chính & Minh chứng
-
-Toàn bộ nội dung bài làm chi tiết được tổng hợp trong các file dưới đây:
-
-1.  **File Báo cáo Hoàn chỉnh (Nộp trên LMS):**
-    * Đây là file .docx chứa cả 4 phần (Kế hoạch hành động, Danh sách Prompt, Worklog, và Link GitHub).
-    * ➡️ **Link truy cập:** [**docs/action-plan.docx**](docs/action-plan.docx)
-
-2.  **Nhật ký làm việc (Worklog):**
-    * File này ghi lại chi tiết tiến độ công việc theo từng ngày.
-    * ➡️ **Link truy cập:** [**worklog/worklog.md**](worklog/worklog.md)
-
-3.  **Minh chứng sử dụng AI Chatbot:**
-    * Thư mục này chứa tất cả các file `.txt` ghi lại các câu lệnh (prompt) đã dùng và kết quả (output) do AI trả về.
-    * ➡️ **Link truy cập thư mục:** [**prompts/**](prompts/)
 
 ---
 
-## 🕒 Lịch sử Phiên bản (Commit Summary)
+## 📌 Tài liệu chính & Minh chứng
 
-Dưới đây là tóm tắt các commit chính của dự án (Lịch sử chi tiết có thể xem tại tab "Commits" của repo):
+| Nội dung | File / Đường dẫn |
+|----------|-------------------|
+| **Báo cáo Hoàn chỉnh (.docx - nộp LMS)** | `docs/action-plan.docx` |
+| **Prompt & Output AI Chatbot** | thư mục `prompts/` |
+| **Nhật ký làm việc (Worklog)** | `worklog/worklog.md` |
+| **Ảnh minh chứng (ChatGPT/GitHub)** | thư mục `screenshots/` |
+| **Link GitHub Repo** | *(điền sau khi public repo)* |
 
-* **Commit 1 (v1.0):**
-    * **Ngày:** [Ví dụ: 25/10/2025]
-    * **Nội dung:** Khởi tạo repository, tạo cấu trúc thư mục và commit bản nháp đầu tiên của Kế hoạch hành động.
+---
 
-* **Commit 2 (v2.0):**
-    * **Ngày:** [Ví dụ: 27/10/2025]
-    * **Nội dung:** Hoàn thiện chi tiết 3 Hành động chính, cập nhật Phần 2 (Prompts) và Phần 3 (Worklog).
+## 🕒 Lịch sử Phiên bản (Commit Log)
 
-* **Commit 3 (v3.0):**
-    * **Ngày:** [Ví dụ: 28/10/2025]
-    * **Nội dung:** Hoàn thiện file `action-plan.docx` (Final version), rà soát lỗi chính tả và định dạng. Sẵn sàng 
+| Phiên bản | Thời gian | Nội dung chính |
+|-----------|-----------|------------------|
+| **v1.0 – Initial Draft** | 25/10/2025 | Tạo repo, thêm README.md, khung thư mục. |
+| **v2.0 – Update Content** | 27/10/2025 | Hoàn thiện 3 Hành động, thêm prompts & worklog. |
+| **v3.0 – Final Submission** | 28/10/2025 | Hoàn thiện file `.docx`, định dạng chuẩn, upload & nộp LMS. |
+
+---
+
+## ✅ Cách sử dụng Repository
+
+1. Mở file `docs/action-plan.docx` để xem toàn bộ bài nộp.  
+2. Mở thư mục `prompts/` để xem toàn bộ prompt & output từ AI Chatbot.  
+3. Xem tiến độ ở `worklog/worklog.md`.  
+4. Ảnh minh chứng được lưu trong `screenshots/`.
+
+---
+
+## 📎 Link Repo GitHub
+
+👉 **(Điền link repo sau khi Public — ví dụ):**  
+https://github.com/NguyenDucAnh/FIT2004-Action-Plan
+
+---
+
+> ✅ *Mọi nội dung đều do sinh viên tự thực hiện dưới sự hỗ trợ của AI (ChatGPT/Gemini) và được cá nhân hóa theo mục tiêu học tập của bản thân.*
+
+
+
 
