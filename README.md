@@ -22,7 +22,6 @@ ActionPlan_HoTenSV/
 ├── README.md # Giới thiệu repo, cách sử dụng
 ├── docs/ # Thư mục lưu tài liệu chính thức
 │ ├── action-plan.docx # File Word nộp bài (4 phần đầy đủ)
-│ └── plan-outline.md # Dàn ý kế hoạch (Pyramid Principle)
 ├── prompts/ # Prompt và Output từ AI
 │ ├── prompt1.txt
 │ ├── output1.txt
@@ -37,7 +36,6 @@ ActionPlan_HoTenSV/
 │ ├── chatgpt_prompt2.png
 │ ├── github_commit.png
 │ └── folder_structure.png
-└── .gitignore (nếu có) # Bỏ qua file rác (không bắt buộc)
 ```
 
 ## 🚀 Tài liệu chính & Minh chứng
