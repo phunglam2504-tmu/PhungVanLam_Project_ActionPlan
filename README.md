@@ -1,76 +1,66 @@
-# BẢN KẾ HOẠCH HÀNH ĐỘNG CÁ NHÂN - Phùng Văn Lâm
+# BÁO CÁO DỰ ÁN: KẾ HOẠCH HÀNH ĐỘNG CÁ NHÂN
+Đây là bài tập cá nhân cho học phần **[Tên học phần, ví dụ: FIT2004 - Phát triển kỹ năng cá nhân]**.
 
-## Thông tin
-- **Họ tên:** Phùng Văn Lâm  
-- **Mã SV:** 3124100000 (cập nhật nếu cần)  
-- **Ngành:** Hệ thống thông tin quản lý  
-- **Liên hệ:** phungvanlam@example.com  
-- **Năm học:** 2025 – 2026  
-- **Công cụ hỗ trợ:** ChatGPT & Gemini (AI Chatbot)  
-- **Nơi lưu trữ:**   https://github.com/phunglam2504-tmu/PhungVanLam_Project_ActionPlan
+Dự án này bao gồm một Bản Kế Hoạch Hành Động cá nhân cho năm học đầu tiên, được xây dựng với sự hỗ trợ của AI Chatbot và quản lý phiên bản trên repository này.
 
 ---
 
-## Mục tiêu
-- **Mục tiêu chính:**  
-  Xây dựng thói quen học tập chủ động, khoa học và ứng dụng AI hiệu quả trong năm nhất.  
+## 👤 Thông tin Sinh viên
 
-- **Mục tiêu cụ thể:**  
-  - Đạt điểm trung bình (GPA) ≥ 3.0/4.0  
-  - Rèn luyện kỹ năng sử dụng AI (ChatGPT, Notion AI, v.v.) trong học tập  
-  - Tham gia ít nhất 2 CLB hoặc workshop phát triển kỹ năng mềm  
+* **Họ và tên:** [Điền Họ và Tên của bạn]
+* **Mã sinh viên:** [Điền Mã sinh viên]
+* **Lớp quản lý:** [Điền tên lớp]
+* **Email liên hệ:** [Điền email của bạn]
 
 ---
 
-## Động lực
-- Muốn thích nghi tốt với môi trường đại học, hình thành tư duy **tự học – tự quản lý**.  
-- Tin rằng **AI giúp tăng hiệu suất và sáng tạo trong học tập**.  
-- Mong muốn có **nền tảng vững chắc cho học bổng & thực tập** trong 3 năm tới.  
+## 📁 Cấu trúc Thư mục Repository
+
+Repository này được tổ chức theo cấu trúc chuẩn để dễ dàng quản lý và chấm bài:
+ActionPlan_NguyenDucAnh/
+├── docs/
+│   └── action-plan.docx
+├── prompts/
+│   ├── prompt1.txt
+│   └── output1.txt
+├── worklog/
+│   └── worklog.md
+└── screenshots/
+    └── chatgpt_prompt1.png
+
+
+
+## 🚀 Tài liệu chính & Minh chứng
+
+Toàn bộ nội dung bài làm chi tiết được tổng hợp trong các file dưới đây:
+
+1.  **File Báo cáo Hoàn chỉnh (Nộp trên LMS):**
+    * Đây là file .docx chứa cả 4 phần (Kế hoạch hành động, Danh sách Prompt, Worklog, và Link GitHub).
+    * ➡️ **Link truy cập:** [**docs/action-plan.docx**](docs/action-plan.docx)
+
+2.  **Nhật ký làm việc (Worklog):**
+    * File này ghi lại chi tiết tiến độ công việc theo từng ngày.
+    * ➡️ **Link truy cập:** [**worklog/worklog.md**](worklog/worklog.md)
+
+3.  **Minh chứng sử dụng AI Chatbot:**
+    * Thư mục này chứa tất cả các file `.txt` ghi lại các câu lệnh (prompt) đã dùng và kết quả (output) do AI trả về.
+    * ➡️ **Link truy cập thư mục:** [**prompts/**](prompts/)
 
 ---
 
-## Hành động & Nhiệm vụ
+## 🕒 Lịch sử Phiên bản (Commit Summary)
 
-| Hành động | Nhiệm vụ chi tiết | Deadline | Trạng thái |
-|------------|------------------|-----------|-------------|
-| **Hành động 1: Rèn luyện thói quen học tập hiệu quả – học trực tuyến** | 1.1. Tạo lịch học cá nhân trên LMS (Google Calendar, thông báo tự động)<br>1.2. Ghi chú & tóm tắt bài giảng bằng ChatGPT/Notion AI<br>1.3. Theo dõi tiến độ học online (bảng “Tuần – Môn – Tiến độ (%)”)<br>1.4. Tương tác với giảng viên & bạn học (LMS, Discord, Zalo)<br>1.5. Đánh giá bản thân cuối tháng (ghi trong reflection.md) | Tuần 1–4 | Đang làm |
-| **Hành động 2: Phát triển kỹ năng học tập với AI** | 2.1. Học viết prompt hiệu quả (“Ngữ cảnh – Hướng dẫn – Dữ liệu”)<br>2.2. Viết & chỉnh sửa bài học thuật bằng ChatGPT<br>2.3. Quản lý tài liệu học tập bằng GitHub + Notion | Tuần 2–5 | Đang làm |
-| **Hành động 3: Phát triển kỹ năng học tập qua môi trường trực tuyến** | 3.1. Tham gia cộng đồng học tập online (Discord, Coursera)<br>3.2. Luyện kỹ năng thuyết trình qua video & nhờ AI phản hồi<br>3.3. Tham dự workshop trực tuyến và viết lại bài học rút ra | Tuần 5–8 | Chưa làm |
+Dưới đây là tóm tắt các commit chính của dự án (Lịch sử chi tiết có thể xem tại tab "Commits" của repo):
 
----
+* **Commit 1 (v1.0):**
+    * **Ngày:** [Ví dụ: 25/10/2025]
+    * **Nội dung:** Khởi tạo repository, tạo cấu trúc thư mục và commit bản nháp đầu tiên của Kế hoạch hành động.
 
-## Link sản phẩm
-- 📄 **File kế hoạch (PDF):** [`docs/action_plan.pdf`](docs/action_plan.pdf)  
-- 📊 **Google Sheet kế hoạch:** *(chèn link cá nhân)*  
-- 🤖 **Prompts & kết quả:** [`docs/prompts_and_results.pdf`](docs/prompts_and_results.pdf)  
-- 🧠 **Reflection log:** [`reflection.md`](reflection.md)  
-- 💬 **Worklog (Prompt log):** [`worklog.md`](worklog.md)  
+* **Commit 2 (v2.0):**
+    * **Ngày:** [Ví dụ: 27/10/2025]
+    * **Nội dung:** Hoàn thiện chi tiết 3 Hành động chính, cập nhật Phần 2 (Prompts) và Phần 3 (Worklog).
 
----
+* **Commit 3 (v3.0):**
+    * **Ngày:** [Ví dụ: 28/10/2025]
+    * **Nội dung:** Hoàn thiện file `action-plan.docx` (Final version), rà soát lỗi chính tả và định dạng. Sẵn sàng 
 
-## Lịch sử phiên bản (commits)
-- **v1 (20/10/2025):** Draft outline kế hoạch  
-- **v2 (27/10/2025):** Cập nhật chi tiết hành động 2 & thêm GSheet  
-- **v3 (31/10/2025):** Hoàn thiện nội dung, chuẩn hóa định dạng theo mẫu nộp  
-
----
-
-## Cách mình đã sử dụng ChatGPT
-- **Prompt mẫu:**  
-  “Hãy giúp tôi xây dựng BẢN KẾ HOẠCH HÀNH ĐỘNG CÁ NHÂN theo Nguyên lý Kim Tự Tháp, gồm 3 hành động chính, chia nhiệm vụ chi tiết theo tuần, trình bày dạng bảng.”  
-- **Mục đích:**  
-  Ứng dụng ChatGPT để hệ thống hóa kế hoạch học tập, rèn kỹ năng viết prompt và ghi chép logic.  
-- **Ghi chú chỉnh sửa:**  
-  Lần đầu AI tạo bảng quá dài → tôi rút gọn, gom nhóm nhiệm vụ theo tuần để phù hợp thời gian học kỳ.  
-
----
-
-## Tóm tắt nguyên lý Kim Tự Tháp (Pyramid Principle)
-1. **Mở đầu – Tổng quan:** Giới thiệu bản thân & mục tiêu học tập.  
-2. **Phát triển – Lý do:** Giải thích động lực chọn mục tiêu.  
-3. **Chi tiết hành động:** Triển khai từng nhiệm vụ theo cấp độ logic từ trên xuống (Goal → Action → Task → Step).  
-4. **Đánh giá & cải tiến:** Theo dõi, phản hồi qua `reflection.md` và `worklog.md`.  
-
----
-
-📌 *Tài liệu này được xây dựng và định dạng để nộp học phần “Kỹ năng học tập & phát triển cá nhân” – Trường Đại học Đại Nam (2025–2026).*
