@@ -17,9 +17,28 @@ Dự án này bao gồm một Bản Kế Hoạch Hành Động cá nhân cho nă
 ## 📁 Cấu trúc Thư mục Repository
 
 Repository này được tổ chức theo cấu trúc chuẩn để dễ dàng quản lý và chấm bài:
-ActionPlan_[TênCủaBạn]/ │ ├── README.md <-- File giới thiệu này │ ├── docs/ │ └── action-plan.docx <-- FILE NỘP BÀI CHÍNH (chứa 4 phần) │ ├── prompts/ │ ├── prompt1.txt <-- Minh chứng prompt đã dùng │ ├── output1.txt <-- Minh chứng output của AI │ ├── ... │ ├── worklog/ │ └── worklog.md <-- Nhật ký làm việc chi tiết │ └── screenshots/ <-- (Tùy chọn) Ảnh chụp minh chứng ├── chatgpt_session.png └── ...
-
-
+```
+ActionPlan_HoTenSV/
+├── README.md # Giới thiệu repo, cách sử dụng
+├── docs/ # Thư mục lưu tài liệu chính thức
+│ ├── action-plan.docx # File Word nộp bài (4 phần đầy đủ)
+│ └── plan-outline.md # Dàn ý kế hoạch (Pyramid Principle)
+├── prompts/ # Prompt và Output từ AI
+│ ├── prompt1.txt
+│ ├── output1.txt
+│ ├── prompt2.txt
+│ ├── output2.txt
+│ ├── prompt3.txt
+│ └── output3.txt
+├── worklog/ # Nhật ký làm việc theo ngày/tuần
+│ └── worklog.md
+├── screenshots/ # Ảnh minh chứng (tuỳ chọn nhưng khuyến khích)
+│ ├── chatgpt_prompt1.png
+│ ├── chatgpt_prompt2.png
+│ ├── github_commit.png
+│ └── folder_structure.png
+└── .gitignore (nếu có) # Bỏ qua file rác (không bắt buộc)
+```
 
 ## 🚀 Tài liệu chính & Minh chứng
 
