@@ -17,16 +17,7 @@ Dự án này bao gồm một Bản Kế Hoạch Hành Động cá nhân cho nă
 ## 📁 Cấu trúc Thư mục Repository
 
 Repository này được tổ chức theo cấu trúc chuẩn để dễ dàng quản lý và chấm bài:
-ActionPlan_NguyenDucAnh/
-├── docs/
-│   └── action-plan.docx
-├── prompts/
-│   ├── prompt1.txt
-│   └── output1.txt
-├── worklog/
-│   └── worklog.md
-└── screenshots/
-    └── chatgpt_prompt1.png
+ActionPlan_[TênCủaBạn]/ │ ├── README.md <-- File giới thiệu này │ ├── docs/ │ └── action-plan.docx <-- FILE NỘP BÀI CHÍNH (chứa 4 phần) │ ├── prompts/ │ ├── prompt1.txt <-- Minh chứng prompt đã dùng │ ├── output1.txt <-- Minh chứng output của AI │ ├── ... │ ├── worklog/ │ └── worklog.md <-- Nhật ký làm việc chi tiết │ └── screenshots/ <-- (Tùy chọn) Ảnh chụp minh chứng ├── chatgpt_session.png └── ...
 
 
 
